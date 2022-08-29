@@ -1,0 +1,41 @@
+header > h1 {
+    color:purple;
+    font-family:monospace;
+    text-align: center;
+    font-size: 35pt;
+    background-color:#d7bbfc;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: monospace;
+}
+
+body {
+    margin:0;
+}
+
+div {
+    margin: 20px;
+}
+
+img {
+    /* height: 300px; */
+    border-radius: 15px;
+}
+
+figcaption {
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkorchid;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
